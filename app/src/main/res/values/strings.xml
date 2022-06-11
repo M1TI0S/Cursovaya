@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">media</string>
+    <string name="app_in_name">dsfdfgdfg</string>
+    <string name="app_name_after">tryhgfhfg</string>
+    <string name="gager">Войти</string>
+    <string name="drugoe">Регистрация</string>
+    <string name="textview">TextView</string>
+    <string name="user_name" tools:ignore="DuplicateDefinition">Имя</string>
+    <string name="theme_of_do">Тема</string>
+    <string name="doings">Что нужно сделать?</string>
+    <string name="newDoing">Добавить новую заметку</string>
+    <string name="showDoings">Посмотреть текущие заметки</string>
+</resources>

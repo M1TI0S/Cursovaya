@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589447742951",
+    "project_id": "cursedfin-ea2f2",
+    "storage_bucket": "cursedfin-ea2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589447742951:android:548682c5a6c434c37be942",
+        "android_client_info": {
+          "package_name": "com.example.cursedfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589447742951-srsv0iesigr63afcva6692g4cjre07gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cursedfinal",
+            "certificate_hash": "26929d86ba66c9e2f6a8707392a66076ba287d97"
+          }
+        },
+        {
+          "client_id": "589447742951-ocv4d61t2c6oigjpc5tggnam3aimnrsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDev1TZcyG08nGkl54Wv71YOI7YGllqE5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589447742951-ocv4d61t2c6oigjpc5tggnam3aimnrsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
